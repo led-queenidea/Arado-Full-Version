@@ -238,3 +238,6 @@ This repository serves as the official landing page for Arado. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Arado today!**
+
+---
+**Last updated:** 2026-09-07 22:20:33 UTC
