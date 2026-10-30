@@ -240,4 +240,4 @@ This repository serves as the official landing page for Arado. The software is d
 **Get the most recent version of Arado today!**
 
 ---
-**Last updated:** 2026-10-30 09:10:05 UTC
+**Last updated:** 2026-10-30 16:19:06 UTC
